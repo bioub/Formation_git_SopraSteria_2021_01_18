@@ -9,3 +9,9 @@ Formation Sopra Steria du 18/01/2021
 * git status
 * git add
 * git commit
+
+## Commandes remotes
+
+* git push
+* git fetch
+* git pull
