@@ -8,3 +8,4 @@ Formation Sopra Steria du 18/01/2021
 * git init
 * git status
 * git add
+* git commit
