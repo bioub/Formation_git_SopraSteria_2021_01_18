@@ -15,3 +15,4 @@ Formation Sopra Steria du 18/01/2021
 * git push
 * git fetch
 * git pull
+* git remote
